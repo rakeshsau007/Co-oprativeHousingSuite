@@ -1,0 +1,21 @@
+1642321801670	Copy package
+1642321808015	Delete elements
+1642321876348	Copy package
+1642321881030	Delete elements
+1642322876178	Copy file
+1642353542868	Rename package 'config'
+1642396206147	Copy compilation unit
+1642396214859	Delete element
+1642396465657	Delete element
+1642396474795	Rename package 'com.suite.HousingSociety.config'
+1642396555118	Rename package 'config'
+1642396567829	Rename package 'controller'
+1642396580919	Rename package 'dto'
+1642396591544	Rename package 'exception'
+1642396607787	Rename package 'model'
+1642396613754	Rename package 'repo'
+1642396619083	Rename package 'security.jwt'
+1642396638196	Rename package 'security.oauth2'
+1642396649876	Rename package 'service'
+1642396691016	Rename package 'util'
+1642396703859	Rename package 'validator'
